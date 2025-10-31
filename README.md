@@ -1,2 +1,3 @@
 # ohtuvarasto
-[![GHA workflow badge](https://github.com/veikkakumpulainen/ohtuvarasto/workflows/CI/badge.svg)]
+
+[![CI](https://github.com/veikkakumpulainen/ohtuvarasto/actions/workflows/ci.yml/badge.svg)](https://github.com/veikkakumpulainen/ohtuvarasto/actions)
